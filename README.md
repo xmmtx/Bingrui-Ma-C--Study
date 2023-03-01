@@ -1,1 +1,1 @@
-# Bingrui-Ma-C--Study
+# Bingrui-Ma-C-Study
