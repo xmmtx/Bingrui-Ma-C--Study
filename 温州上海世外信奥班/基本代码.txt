@@ -1,0 +1,23 @@
+//头文件
+#include<iostream>
+//命名空间
+using namespace std;
+//主函数
+int main()
+{
+  return 0;
+}
+//输入
+cin>>
+//输出
+cout<<
+//整数定义类型
+int
+//小数定义类型
+float , double
+//换行符
+endl , \n
+//赋值
+=
+//取余
+%
